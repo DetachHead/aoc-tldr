@@ -1,0 +1,27 @@
+# 2022, day 1
+## example input
+```
+1000
+2000
+3000
+
+4000
+
+5000
+6000
+
+7000
+8000
+9000
+
+10000
+```
+
+## part 1
+- split each section of numbers by the empty lines
+- add up all the numbers in seach section
+- what's the highest total?
+
+# part 2
+- what are the three highest totals?
+- add all three totals together
